@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 skdjflskdjflkjsdlfkjsald;kfjals;dkj
 
+=======
+123123123123132测试文本
+>>>>>>> 29455b22b8a357cd16f2d2ac79d71424ba8fdd66
